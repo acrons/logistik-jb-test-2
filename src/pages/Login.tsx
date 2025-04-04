@@ -74,7 +74,7 @@ const Login: React.FC = () => {
               isLoading ? 'opacity-50 cursor-not-allowed' : ''
             }`}
           >
-            {isLoading ? 'Iniciando sesión...' : 'Iniciar Sesión'}
+            {isLoading ? 'Iniciando sesión...' : 'Iniciar Sesión AQUI'}
           </button>
         </form>
       </div>
